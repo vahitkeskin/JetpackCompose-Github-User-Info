@@ -9,3 +9,8 @@
 - [Coroutine / Flow](https://developer.android.com/kotlin/flow)
 - [Retrofit](https://square.github.io/retrofit/)
 - [Timber & Logger 🕵🏻‍♂️](https://github.com/JakeWharton/timber)
+
+
+
+https://user-images.githubusercontent.com/36104238/188467042-f0068824-9d5b-426b-89e4-e7cd1bba58bb.mp4
+
