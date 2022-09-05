@@ -16,10 +16,10 @@
 https://user-images.githubusercontent.com/36104238/188467042-f0068824-9d5b-426b-89e4-e7cd1bba58bb.mp4
 
 <p class="callout success">Flipper API Response Body - UserInfo</p>
-![Screen Shot 2022-09-05 at 16 41 52](https://user-images.githubusercontent.com/36104238/188469813-71a334bd-905b-4c1f-920d-aa1f53f74a83.png)
+![](https://user-images.githubusercontent.com/36104238/188469813-71a334bd-905b-4c1f-920d-aa1f53f74a83.png)
 
 <p class="callout success">Flipper API Response Body - Repos</p>
-![Screen Shot 2022-09-05 at 17 06 13](https://user-images.githubusercontent.com/36104238/188469857-a35c88d4-bace-4e65-83f2-3b550249f656.png)
+![](https://user-images.githubusercontent.com/36104238/188469857-a35c88d4-bace-4e65-83f2-3b550249f656.png)
 
 <p class="callout success">Some technologies used... Details are hidden in the project</p>
-![JetpackComposeGithubUserInfo - Images](https://user-images.githubusercontent.com/36104238/188469891-138db6e3-773b-49aa-8447-e74f98afc36c.jpeg)
+![](https://user-images.githubusercontent.com/36104238/188469891-138db6e3-773b-49aa-8447-e74f98afc36c.jpeg)
