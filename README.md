@@ -1,4 +1,4 @@
-# Kitaplıklar ve Araçlar 📚
+# Libraries and Tools 📚
 
 - [Jetpack Compose 😍](https://developer.android.com/jetpack/compose)
 - [Flipper (API Listening) ⭐️⭐️⭐️⭐️⭐️](https://fbflipper.com/docs/setup/plugins/network/)
