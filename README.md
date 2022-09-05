@@ -1,4 +1,4 @@
-# Kitaplıklar ve Araçlar :hammer:
+# Kitaplıklar ve Araçlar 📚
 
 - [x] Jetpack Compose 😍
 - [x] Flipper (API Listening) ⭐️⭐️⭐️⭐️⭐️
