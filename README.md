@@ -16,19 +16,10 @@
 https://user-images.githubusercontent.com/36104238/188467042-f0068824-9d5b-426b-89e4-e7cd1bba58bb.mp4
 
 <p class="callout success">Flipper API Response Body - UserInfo</p>
-
+[![solarized dualmode](https://user-images.githubusercontent.com/36104238/188469813-71a334bd-905b-4c1f-920d-aa1f53f74a83.png)](#features)
 
 <p class="callout success">Flipper API Response Body - Repos</p>
-
+[![solarized dualmode](https://user-images.githubusercontent.com/36104238/188469857-a35c88d4-bace-4e65-83f2-3b550249f656.png)](#features)
 
 <p class="callout success">Some technologies used... Details are hidden in the project</p>
-
-
-[![solarized dualmode](https://user-images.githubusercontent.com/36104238/188469813-71a334bd-905b-4c1f-920d-aa1f53f74a83.png)](#features)
-[![solarized dualmode](https://user-images.githubusercontent.com/36104238/188469857-a35c88d4-bace-4e65-83f2-3b550249f656.png)](#features)
 [![solarized dualmode](https://user-images.githubusercontent.com/36104238/188469891-138db6e3-773b-49aa-8447-e74f98afc36c.jpeg)](#features)
-
-
-
-[![solarized dualmode](https://github.com/altercation/solarized/raw/master/img/solarized-yinyang.png)](#features)
-
